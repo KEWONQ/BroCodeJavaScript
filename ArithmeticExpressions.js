@@ -31,6 +31,6 @@ let students = 20;
     3. multiplication & division
     4. addition & subtraction
 */
-let result = 1 + 2 * (3 + 4)
+let result = (1 + 2) * (3 + 4)
 
 console.log(result);
