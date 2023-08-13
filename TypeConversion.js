@@ -12,6 +12,7 @@ console.log("Happy Birthday! You are", age, "years old");
 */
 
 
+
 let x;
 let y;
 let z;
